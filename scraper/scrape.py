@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
-import pandas as pd 
+import pandas as pd
 from selenium import webdriver
+import os 
+from pdfConverter import PDF
 
 
 class Scrape:
@@ -55,17 +57,17 @@ class Scrape:
     out:Bool->SUCCESS OR NOT
 
     '''
-    def makeCSVFromResults(self,fileName:str)->bool:
+    def makeCSVFromResults(self,filename=os.path.join(os.path.dirname(os.getcwd()),'outputs','data.csv'))->bool:
         #creating a dataframe from dictionary
         prodDict={
-            'titles':self.images,
+            'titles':self.title,
             'prices':self.prices,
             'platforms':self.platforms,
             'image_url':self.images
         }
         df=pd.DataFrame(prodDict)
         try:
-            df.to_csv('{}.csv'.format(filename))
+            df.to_csv('{}'.format(filename))
         except:
             return False
         
@@ -76,25 +78,63 @@ if __name__=='__main__':
     print('Welcome to steam scraper\n')
     print('#####################################')
     scraper=Scrape()
-    url=input('Enter the  url from which you want to scrape: ')
+    url=input('Enter the steam url: ')
     if len(url)>=1:
         scraped=scraper.getNewAndTrending(url)
         if scraped:
-            filename=input('\nEnter the name of the csv file you want to dump the data into: ')
-            if len(filename)>=1:
-                print('\nDumping data into a csv file please wait\n')
-                dumped=scraper.makeCSVFromResults(filename)
-                if dumped:
-                    print('File genereated successfully\n')
-                else:
-                    print('Sorry the file cannot be generated\n')
-                    exit()
+            filePath=input('\nEnter the path to  the csv file you want to dump the data into.Default is outputs folder :  ')
+            if len(filePath)>=1:
+                print('\nDumping data into a csv file please wait...\n')
+                dumped=scraper.makeCSVFromResults(filePath)
+                
             else:
-                print('\nInvalid filename. Exiting......')
-                exit()
+                print('\nInvalid filename.')
+                print('\nUsing outputs directory\n')
+                dumped=scraper.makeCSVFromResults()
+            if dumped:
+                    print('File genereated successfully....\n')
+            else:
+                    print('Sorry the file cannot be generated...\n')
+                    exit()
         else:
             print('Couldn\'t scrape the webpage. Exiting.....')
+            exit()
+
 
     else:
         print('No url entered. Exiting....')
         exit()
+    print('#################################')
+    choice=input('Do you want to create a pdf for the previous modified csv file ? [Y/N] ')
+    #yes 
+    if choice.lower()=='y':
+        filePath=input('Enter the path to the csv file. By default outputs folder will be used.: ')
+        if filePath:
+            pdfHandler=PDF(filePath)
+            
+        else:
+            pdfHandler=PDF()
+        pdfHandler.readCSV()
+        filename=input('Enter the name by which you want to save the pdf file : ')
+        if filename:
+            filePath=input('Enter the path where you want to save the pdf file : ')
+            if filePath:
+                #both filename and filepath specified
+                pdfHandler.createPDF(filename=filename,filePath=filePath)
+            else:
+                #filename specified path not specified
+                pdfHandler.createPDF(filename=filename)
+                print('\n## File will is  outputted to the outputs directory\n')
+        else:
+            #name not specified
+            pdfHandler.createPDF()
+            print('\n## File will is outputted to the outputs directory\n')
+
+
+        
+
+    #no
+    elif choice.lower()=='n' or not choice:
+        pass
+    print('\n###################################\n')
+    print('Done\n')

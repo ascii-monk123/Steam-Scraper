@@ -1,0 +1,199 @@
+1615457867591	geckodriver	INFO	Listening on 127.0.0.1:42561
+1615457867596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiOA9IX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615457872945	Marionette	INFO	Listening on port 37377
+1615457873219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615457984714	Marionette	INFO	Stopped listening on port 37377
+1615457994478	geckodriver	INFO	Listening on 127.0.0.1:50867
+1615457994485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1WBvnO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615457998483	Marionette	INFO	Listening on port 36803
+1615457998518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615463096606	geckodriver	INFO	Listening on 127.0.0.1:59009
+1615463097529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemZECEW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615463103034	Marionette	INFO	Listening on port 32891
+1615463103152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615464414108	geckodriver	INFO	Listening on 127.0.0.1:51043
+1615464414113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh4YC88"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615464417995	Marionette	INFO	Listening on port 41387
+1615464418039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615464536453	geckodriver	INFO	Listening on 127.0.0.1:49255
+1615464536457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3BAftd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615464540080	Marionette	INFO	Listening on port 37867
+1615464540182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615464741229	geckodriver	INFO	Listening on 127.0.0.1:44719
+1615464741233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexQZWpy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615464745148	Marionette	INFO	Listening on port 45275
+1615464745274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615464852275	geckodriver	INFO	Listening on 127.0.0.1:46293
+1615464852294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYuM8DY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615464856279	Marionette	INFO	Listening on port 41687
+1615464856321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615465255690	geckodriver	INFO	Listening on 127.0.0.1:47695
+1615465255695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZaZXlu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615465259489	Marionette	INFO	Listening on port 36009
+1615465259522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615466349164	geckodriver	INFO	Listening on 127.0.0.1:51873
+1615466349170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeQCfaB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615466352911	Marionette	INFO	Listening on port 43997
+1615466352996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615466460745	Marionette	INFO	Stopped listening on port 43997
+1615466766391	geckodriver	INFO	Listening on 127.0.0.1:48719
+1615466766396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSkmg0F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615466770244	Marionette	INFO	Listening on port 35101
+1615466770322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+1615466802667	Marionette	INFO	Stopped listening on port 35101
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615472540648	geckodriver	INFO	Listening on 127.0.0.1:58119
+1615472540653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8GSY5Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615472544581	Marionette	INFO	Listening on port 33633
+1615472544679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+1615472569754	Marionette	INFO	Stopped listening on port 33633
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615482667477	geckodriver	INFO	Listening on 127.0.0.1:55071
+1615482668438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVyv0r7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615482673810	Marionette	INFO	Listening on port 45605
+1615482673980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+1615482721318	Marionette	INFO	Stopped listening on port 45605
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615483399494	geckodriver	INFO	Listening on 127.0.0.1:52953
+1615483399499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaSsNPb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615483403316	Marionette	INFO	Listening on port 42085
+1615483403425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.akamai.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english, line 192: unreachable code after return statement
+JavaScript warning: https://store.akamai.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english, line 192: unreachable code after return statement
+1615483418615	Marionette	INFO	Stopped listening on port 42085
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615483585811	geckodriver	INFO	Listening on 127.0.0.1:53885
+1615483585816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIP3VPv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615483589382	Marionette	INFO	Listening on port 42521
+1615483589448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.akamai.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english, line 192: unreachable code after return statement
+JavaScript warning: https://store.akamai.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english, line 192: unreachable code after return statement
+1615483601532	Marionette	INFO	Stopped listening on port 42521
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615485125088	geckodriver	INFO	Listening on 127.0.0.1:39395
+1615485125092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBJ6yY6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615485128714	Marionette	INFO	Listening on port 43475
+1615485128825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+1615485135782	Marionette	INFO	Stopped listening on port 43475
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615485396105	geckodriver	INFO	Listening on 127.0.0.1:51661
+1615485396110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQpCQb9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615485399828	Marionette	INFO	Listening on port 35379
+1615485399935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+1615485409748	Marionette	INFO	Stopped listening on port 35379
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615485562193	geckodriver	INFO	Listening on 127.0.0.1:38017
+1615485562197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLrZIon"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615485565752	Marionette	INFO	Listening on port 43525
+1615485565824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+1615485579113	Marionette	INFO	Stopped listening on port 43525
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615485614747	geckodriver	INFO	Listening on 127.0.0.1:47171
+1615485614752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehDZBu7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615485618706	Marionette	INFO	Listening on port 45251
+1615485618787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+1615485632922	Marionette	INFO	Stopped listening on port 45251
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615485718971	geckodriver	INFO	Listening on 127.0.0.1:55955
+1615485718975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9dXyVr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615485722733	Marionette	INFO	Listening on port 37223
+1615485722802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+1615485744565	Marionette	INFO	Stopped listening on port 37223
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615486055721	geckodriver	INFO	Listening on 127.0.0.1:47059
+1615486055734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemNx3nG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615486059731	Marionette	INFO	Listening on port 34721
+1615486059762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+JavaScript warning: https://store.cloudflare.steamstatic.com/public/javascript/contenthub.js?v=hsGmekVh5txM&l=english&_cdn=cloudflare, line 192: unreachable code after return statement
+1615486074239	Marionette	INFO	Stopped listening on port 34721
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

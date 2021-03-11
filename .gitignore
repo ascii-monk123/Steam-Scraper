@@ -2,3 +2,7 @@
 .vscode/
 #csv files
 *.csv
+#pdf files
+*.pdf
+#debug python files
+scraper/test.py 
