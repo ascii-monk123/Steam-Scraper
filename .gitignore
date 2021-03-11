@@ -1,4 +1,4 @@
 #vscode files
-.vscode
+.vscode/
 #csv files
-results.csv
+*.csv
